@@ -1,0 +1,5 @@
+#comment
+#whitespace does matter
+url=jdbc:postgresql://ashleighrevature.cmiofoht3f8w.us-east-2.rds.amazonaws.com:5432/chinookdb
+user=AshleighRevature_
+password=123passme.
